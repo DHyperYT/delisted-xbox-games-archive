@@ -3,8 +3,9 @@ We all know some games get delisted from the Microsoft Store after some time, bu
 This archive brings whatever interesting to me i've found to one place.
 
 # DISCLAIMER
-**THESE AREN'T CRACKS.** They still require a valid license to run, and they're also encrypted. Install them on your Xbox and move them to an external hard drive to have them decrypted.  
-You can use [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to install xvcs and convert an xbox formatted hard drive to a windows readable format.
+**THESE AREN'T CRACKS.** They still require a valid license to run, and they're also encrypted.
+
+You can use [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to install these xvcs to your Xbox.
 
 # List
 | Game | Publisher | Microsoft Store link | XVC LINK | Size |
