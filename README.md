@@ -1,5 +1,5 @@
 # PURPOSE
-We all know some games get delisted from the Microsoft Store after some time, but their actual store pages still exist and their XVCs continue to exist on the Microsoft servers, but become super difficult to find.
+We all know some games get delisted from the Microsoft Store after some time, but their actual store pages still exist and their data continues to exist on the Microsoft servers, but become super difficult to find.
 This archive brings whatever interesting to me i've found to one place.
 
 # DISCLAIMER
