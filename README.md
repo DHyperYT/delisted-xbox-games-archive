@@ -4,7 +4,7 @@ This archive brings whatever interesting to me i've found to one place.
 
 # DISCLAIMER
 **THESE AREN'T CRACKS.** They still require a valid license to run.  
-You can use tools like [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to install them on your xbox.
+You can use tools like [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to install them on your xbox using XVC, or use the "Install To" feature on the store pages.
 
 # List
 | Game | Publisher | Microsoft Store link | XVC LINK | Size |
