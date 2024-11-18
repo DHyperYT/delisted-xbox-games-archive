@@ -3,7 +3,8 @@ We all know some games get delisted from the Microsoft Store after some time, bu
 This archive brings whatever interesting to me i've found to one place.
 
 # DISCLAIMER
-THESE ARENT CRACKS. THEY STILL REQUIRE A LICENSE TO OPEN, BUT YOU CAN USE XboxDownload to download them.
+**THESE AREN'T CRACKS.** They still require a valid license to run.  
+You can use tools like [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to download them.
 
 # List
 | Game | Publisher | Microsoft Store link | XVC LINK | Size |
