@@ -21,4 +21,4 @@ You can use [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to ins
 | Call of Duty®: WWII - Private Beta | Activision / Sledgehammer Games | [Store Link](https://www.xbox.com/en-US/games/store/Call-of-Duty-WWII-Private-Beta/c0plfkxgrc7m) | TBD | 17.02 GB |
 | Marvel's Avengers BETA | Square Enix | [Store Link](https://www.xbox.com/en-us/games/store/marvels-avengers-beta/9nsgjnn2q2x1) | [XVC](http://assets2.xboxlive.com/1/7f2cf2bf-c946-42ee-b7f1-7841859b8c05/40a3bb91-f32f-4f84-80fd-9eacca10eb3d/1.4.2008.21.9ef0ba5d-eec4-4a47-9956-bb9a1493dd46/AV1Beta_1.4.2008.21_neutral__ywaz7tst186jr) | 27.46 GB | 
 
-More will be added over time, please make pull requests to add your own!
+This archive won't be always updated by me. make pull request to add your own finds.
