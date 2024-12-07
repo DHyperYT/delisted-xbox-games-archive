@@ -22,5 +22,8 @@ You can use [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to ins
 | Marvel's Avengers BETA | Square Enix | [Store Link](https://www.xbox.com/en-us/games/store/marvels-avengers-beta/9nsgjnn2q2x1) | [XVC](http://assets2.xboxlive.com/1/7f2cf2bf-c946-42ee-b7f1-7841859b8c05/40a3bb91-f32f-4f84-80fd-9eacca10eb3d/1.4.2008.21.9ef0ba5d-eec4-4a47-9956-bb9a1493dd46/AV1Beta_1.4.2008.21_neutral__ywaz7tst186jr) | 27.46 GB | 
 | Battlefield™ 2042 Open Beta Xbox One | Electronic Arts / DICE | [Store Link](https://www.xbox.com/en-CA/games/store/Battlefield%E2%84%A2-2042-Open-Beta/9N7V793WXMRH/0010) | TBD	| 9.34 GB
 | WWE 2K19 | 2K / YUKE'S Co., Ltd. | [Store Link](https://www.xbox.com/en-US/games/store/WWE-2K19/c31wrp7qcc8c) | TBD | 45.98 GB
+| The Crew® 2 Open Beta | Ubisoft / Ivory Tower | [Store Link](https://www.xbox.com/en-US/games/store/The-Crew-2-Open-Beta/c3btnnstlw3v) | TBD | 23.95 GB
+| Battlefield™ V Open Beta | Electronic Arts / DICE | [Store LInk](https://www.xbox.com/en-US/games/store/Battlefield-V-Open-Beta/bnmjvxj5bq0c) | TBD | 10.95 GB	
+| Rust Console Edition - Closed Beta | Double Eleven / Double Eleven Ltd. / Facepunch Studios Limited. | [Store Link](https://www.xbox.com/en-US/games/store/Rust-Console-Edition-Closed-Beta/9p8qlj6s6bxc) | TBD | 3.48 GB	
 
 This archive won't be always updated by me. make pull request to add your own finds.
