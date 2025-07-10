@@ -1,3 +1,5 @@
+# LINKS SEEM TO BE DEAD AS OF NOW 10/7/2025
+
 # Purpose
 We all know some games get delisted from the Microsoft Store after some time, but their actual store pages still exist and their XVCs continue to exist on the Microsoft servers, but become super difficult to find.
 This archive brings whatever interesting to me i've found to one place.
