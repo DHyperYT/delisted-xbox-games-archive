@@ -28,4 +28,4 @@ You can use [XboxDownload](https://github.com/skydevil88/XboxDownload-EN) to ins
 | Rust Console Edition - Closed Beta | Double Eleven / Double Eleven Ltd. / Facepunch Studios Limited. | [Store Link](https://www.xbox.com/en-US/games/store/Rust-Console-Edition-Closed-Beta/9p8qlj6s6bxc) | [XVC](http://assets1.xboxlive.com/10/0b608eb8-4c3d-488d-a3eb-05e4a2a5efce/e924f847-bc25-440b-860a-cfcd3e02f93c/1.5.8.0.94dd1782-7aa9-4128-9cf5-8acee9ed6421/FacepunchStudiosLTD.Rust_1.5.8.0_neutral__nfqzazxdk1bvc) | 3.48 GB	
 | DAYTONA USA | SEGA | [Store Link](https://www.xbox.com/en-US/games/store/daytona-usa/bq0mxffqqhxp) | [XVC](http://assets1.xboxlive.com/1/b25e38b1-4105-4503-b215-92b125e246fc/3bfd1149-d8ff-4561-8682-325670363615/19.627.30.1812.04785e51-c1cb-4449-aeac-3c29113d5a4c/DAYTONAUSA58410B1D-GAM0_19.627.30.1812_x64__7cn57wbjj1ka0) | 889.34 MB
 
-This archive won't be always updated by me. make pull request to add your own finds.
+This archive won't be always updated by me. make pull request to add your own finds, or open an issue to request a game.
